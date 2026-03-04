@@ -23,8 +23,8 @@ I specialize in building dashboards, analyzing data, and generating insights for
   Conducted a comprehensive analysis of Tata Consultancy Services (TCS) stock market data to understand price trends, trading patterns,
   and overall market performance. The objective of this project was to analyze historical stock price data and generate insights that       could support investment decision-making.
 
- ✦ Dashboard Preview
-  ![TCS Dashboard](Screenshot (448).png)
+ ## Dashboard Preview
+   ![TCS Dashboard](Screenshot (448).png)
 
  • Key Responsibilities
 - Collected and analyzed historical stock price data for TCS  
